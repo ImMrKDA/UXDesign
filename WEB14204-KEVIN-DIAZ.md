@@ -22,11 +22,11 @@ This is my hand-in package MarkDown file. In this file you will be able to see a
 
 ### Concept one-pager
 
-![Concept one-pager image](https://drive.google.com/file/d/1CbMwBzOPYk2V5XskYp-Nqb_WIBcwMU3M/view?usp=sharing)
+[Concept one-pager image](https://drive.google.com/file/d/1CbMwBzOPYk2V5XskYp-Nqb_WIBcwMU3M/view?usp=sharing)
 
 ### Experience map
 
-![Experience map image](https://github.com/ImMrKDA/OneTweetSP/blob/master/OneTweetSP.md)
+[Experience map image](https://github.com/ImMrKDA/OneTweetSP/blob/master/OneTweetSP.md)
 
 ### Formative presentation
 
