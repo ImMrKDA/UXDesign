@@ -18,7 +18,7 @@ This is my hand-in package MarkDown file. In this file you will be able to see a
 
 ### Elevator Pitch
 
-[Elevator Pitch on google docs](https://docs.google.com/document/d/1cyzbXw5Zuul0Ie_zaF0hwbUCDXJYQlY49Fj2keDhQeI/edit?usp=sharing)
+[Elevator Pitch on google docs](https://docs.google.com/document/d/1uVdx0Fr4PTRV82OBZekbMTFelFugMCIrCuOD_mFEFLk/edit?usp=sharing)
 
 ### Concept one-pager
 
