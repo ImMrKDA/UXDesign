@@ -1,8 +1,7 @@
 # WEB14204: User Experience Design
 **Name:** Kevin Díaz  
 **Student number:** 96454416  
-**Course:** Web Media Production Level 2
-
+**Course:** Web Media Production Level 2 
 **Unit Code:** WEB14204  
 
 This is my hand-in package MarkDown file. In this file you will be able to see all my blog posts as well as the links to the different tasks that I've done in this unit.
