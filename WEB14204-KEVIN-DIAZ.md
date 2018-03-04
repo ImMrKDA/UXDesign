@@ -34,11 +34,11 @@ This is my hand-in package MarkDown file. In this file you will be able to see a
 
 ### User personas
 
-[User personas included on Summative Presentation](https://docs.google.com/presentation/d/1u04Pfp8FKWTD6K3EMKsXzW-v2V-hWXjVOvXNYdy204c/edit?usp=sharing)
+[User personas included on Summative Presentation](https://docs.google.com/presentation/d/1-u1c_u0lohtY106Xopy2_HaouHokdNJkyOUyeVjs-U0/edit?usp=sharing)
 
 ### Wireframes
 
-[Wireframes included in Formative and Summative presentation](https://docs.google.com/presentation/d/1u04Pfp8FKWTD6K3EMKsXzW-v2V-hWXjVOvXNYdy204c/edit?usp=sharing)
+[Wireframes included in Formative and Summative presentation](https://docs.google.com/presentation/d/1-u1c_u0lohtY106Xopy2_HaouHokdNJkyOUyeVjs-U0/edit?usp=sharing)
 
 ### Prototype
 
@@ -54,4 +54,4 @@ This is my hand-in package MarkDown file. In this file you will be able to see a
 
 ### Summative presentation
 
-[Summative presentation on google slides](https://docs.google.com/presentation/d/1u04Pfp8FKWTD6K3EMKsXzW-v2V-hWXjVOvXNYdy204c/edit?usp=sharing)
+[Summative presentation on google slides](https://docs.google.com/presentation/d/1-u1c_u0lohtY106Xopy2_HaouHokdNJkyOUyeVjs-U0/edit?usp=sharing)
