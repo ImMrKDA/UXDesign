@@ -7,14 +7,13 @@
 This is my hand-in package MarkDown file. In this file you will be able to see all my blog posts as well as the links to the different tasks that I've done in this unit.
 
 ### Blogs posts
-* [Week 1](http://fourthfloor.raveweb.net/karboleda/2016/12/05/eyebombing-web-design-principles/ ): EyeBombing
-* [Week 2](http://fourthfloor.raveweb.net/karboleda/2016/12/05/34/): OneTweet
-* [Week 3](http://fourthfloor.raveweb.net/karboleda/2016/12/05/union-hack-web-design-principles/): Union Hack
-* [Week 4]( http://fourthfloor.raveweb.net/karboleda/2016/12/05/formative-presen…esign-principles/ ): Formative Assessment
-* [Week 5](http://fourthfloor.raveweb.net/karboleda/2016/12/05/peer-learning-web-design-principles/): Peer Learning
-* [Week 7](http://fourthfloor.raveweb.net/karboleda/2016/12/05/the-webs-grain-web-design-principles/): The Web's Grain
-* [Week 8](http://fourthfloor.raveweb.net/karboleda/2016/12/05/code-in-your-plate-web-design-principles/): Code in your plate
-* [Week 9](http://fourthfloor.raveweb.net/karboleda/2016/12/05/css-tricks-web-design-principles/): CSS tricks
+* [Week 1](https://medium.com/@k.arboleda/interviewing-humans-21278b32997b): Interviewing Humans
+* [Week 2](https://medium.com/@k.arboleda/learning-to-wireframe-10-best-practices-7115223a7ebb): Learning to wireframe: 10 best practices
+* [Week 3](https://medium.com/@k.arboleda/inspiring-museum-interactive-experiences-326292e6e4d6): Inspiring museum interactive experiences
+* [Week 4](https://medium.com/@k.arboleda/formative-feedback-on-action-plan-a5133e5ef8ae): Formative feedback on action plan
+* [Week 5](https://medium.com/@k.arboleda/user-testing-what-did-we-learn-5b0b9818e41f): User-testing: What did we learn?
+* [Week 6](https://medium.com/@k.arboleda/telling-the-story-of-your-project-research-50e302610beb): Telling the story of your project/research
+* [Week 7](https://medium.com/@k.arboleda/ux-choreography-a3a4046e6a0e): UX choreography
 
 ### Elevator Pitch
 
