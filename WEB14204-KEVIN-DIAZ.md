@@ -59,3 +59,7 @@ This is my hand-in package MarkDown file. In this file you will be able to see a
 ### Summative presentation
 
 [Summative presentation on google slides](https://docs.google.com/presentation/d/1-u1c_u0lohtY106Xopy2_HaouHokdNJkyOUyeVjs-U0/edit?usp=sharing)
+
+### Self-assessment sheet
+
+[Self-assessment sheet](https://docs.google.com/document/d/1QtV47kjE-VN6-EEMM4HLxj6BcQbHK_NbSJregktHvH4/edit?usp=sharing)
