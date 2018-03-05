@@ -15,6 +15,11 @@ This is my hand-in package MarkDown file. In this file you will be able to see a
 * [Week 6](https://medium.com/@k.arboleda/telling-the-story-of-your-project-research-50e302610beb): Telling the story of your project/research
 * [Week 7](https://medium.com/@k.arboleda/ux-choreography-a3a4046e6a0e): UX choreography
 
+### Competitor analysis
+
+[Competitor analysis on google docs](https://docs.google.com/document/d/18ooIirJPGxGkBkL64FihL6HN0jV8sGGykAtXykvhhU8/edit?usp=sharing)
+
+
 ### Elevator Pitch
 
 [Elevator Pitch on google docs](https://docs.google.com/document/d/1uVdx0Fr4PTRV82OBZekbMTFelFugMCIrCuOD_mFEFLk/edit?usp=sharing)
@@ -25,7 +30,7 @@ This is my hand-in package MarkDown file. In this file you will be able to see a
 
 ### Experience map
 
-[Experience map image](https://github.com/ImMrKDA/OneTweetSP/blob/master/OneTweetSP.md)
+[Experience map image](https://drive.google.com/file/d/1swwbr6JA0os3GBe6ghX7NoQ-e8aENk3D/view?usp=sharing)
 
 ### Formative presentation
 
